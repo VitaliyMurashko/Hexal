@@ -50,7 +50,7 @@ header ul li {
 }
 
 .menu-hexal {
-    background-image: url('/assets/img/0.png');
+    background-image: url('https://vitaliymurashko.github.io/Hexal/assets/img/0.png');
     background-repeat: no-repeat;
     position: absolute;
     top: -116px;
@@ -212,7 +212,7 @@ h1 {
 
 .link-fb {
     padding: 12px;
-    background: #a5dbd4 url('../assets/img/facebook.png') no-repeat 50% 50%;
+    background: #a5dbd4 url('https://vitaliymurashko.github.io/Hexal/assets/img/facebook.png') no-repeat 50% 50%;
 }
 
 .link-fb:hover {
@@ -223,7 +223,7 @@ h1 {
 
 .link-tw {
     padding: 12px;
-    background: #a5dbd4 url('../assets/img/twit.png') no-repeat 50% 50%;
+    background: #a5dbd4 url('https://vitaliymurashko.github.io/Hexal/assets/img/twit.png') no-repeat 50% 50%;
 }
 
 .link-tw:hover {
@@ -233,7 +233,7 @@ h1 {
 
 .link-go {
     padding: 12px;
-    background: #a5dbd4 url('../assets/img/google.png') no-repeat 50% 50%;
+    background: #a5dbd4 url('https://vitaliymurashko.github.io/Hexal/assets/img/google.png') no-repeat 50% 50%;
 }
 
 .link-go:hover {
@@ -243,7 +243,7 @@ h1 {
 
 .link-pi {
     padding: 12px;
-    background: #a5dbd4 url('../assets/img/pin.png') no-repeat 50% 50%;
+    background: #a5dbd4 url('https://vitaliymurashko.github.io/Hexal/assets/img/pin.png') no-repeat 50% 50%;
 }
 
 .link-pi:hover {
@@ -253,7 +253,7 @@ h1 {
 
 .link-in {
     padding: 12px;
-    background: #a5dbd4 url('../assets/img/inst.png') no-repeat 50% 50%;
+    background: #a5dbd4 url('https://vitaliymurashko.github.io/Hexal/assets/img/inst.png') no-repeat 50% 50%;
 }
 
 .link-in:hover {
@@ -263,7 +263,7 @@ h1 {
 
 .link-aa {
     padding: 12px;
-    background: #a5dbd4 url('../assets/img/social.png') no-repeat 50% 50%;
+    background: #a5dbd4 url('https://vitaliymurashko.github.io/Hexal/assets/img/social.png') no-repeat 50% 50%;
 }
 
 .link-aa:hover {
@@ -356,7 +356,7 @@ h1 {
 
 .adress {
     margin: 25px 0 0 0;
-    background-image: url('/assets/img/icon-address.png');
+    background-image: url('https://vitaliymurashko.github.io/Hexal/assets/img/icon-address.png');
     background-repeat: no-repeat;
     padding-left: 20px;
 }
@@ -367,7 +367,7 @@ h1 {
 }
 
 .email {
-    background-image: url('/assets/img/icon-mail.png');
+    background-image: url('https://vitaliymurashko.github.io/Hexal/assets/img/icon-mail.png');
     background-repeat: no-repeat;
     padding-left: 20px;
     text-decoration: none;
@@ -375,7 +375,7 @@ h1 {
 }
 
 .tel {
-    background-image: url('/assets/img/icon-phone.png');
+    background-image: url('https://vitaliymurashko.github.io/Hexal/assets/img/icon-phone.png');
     background-repeat: no-repeat;
     padding-left: 20px;
     text-decoration: none;
